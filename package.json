@@ -12,5 +12,16 @@
     "cors": "^2.6.0",
     "express": "^4.12.4",
     "jrpc2": "^1.0.0-rc1"
-  }
+  },
+  "keywords":[
+    "OpenWRT",
+    "ubus",
+    "fubus",
+    "bus",
+    "microbus",
+    "embedded",
+    "rpc",
+    "json",
+    "json-rpc"
+  ]
 }
