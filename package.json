@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A mock / fake ubus implementation of OpenWRT micro bus architecture for Node.js.",
   "main": "index.js",
-  "author": "Ralph Greschner",
+  "author": "Ralph Greschner <ralph.greschner.dev@gmail.com> (http://www.ralph-greschner.de)",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^2.9.25",
