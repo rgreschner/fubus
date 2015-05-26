@@ -1,6 +1,6 @@
 {
   "name": "fubus",
-  "version": "0.0.1",
+  "version": "0.0.2015052601",
   "description": "A mock / fake ubus implementation of OpenWRT micro bus architecture for Node.js.",
   "main": "index.js",
   "author": "Ralph Greschner <ralph.greschner.dev@gmail.com> (http://www.ralph-greschner.de)",
